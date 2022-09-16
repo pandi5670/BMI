@@ -1,0 +1,28 @@
+body{
+    background-color: aqua;
+    background-image: url(/boost-your-immune-system-infographic_52683-40766.jpg);
+    background-repeat: no-repeat;
+}
+.first{
+    padding:0%;
+    margin:0%;
+    padding-left:700px;
+    font-family: Tahoma, sans-serif;
+    font-weight: bolder;
+}
+button{
+    border-radius:10px;
+    border-width:5px;
+    margin-left:200px;
+    margin-top:10px;
+    border-color: blue;
+}
+.output{
+    padding-left:500px;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+h1{
+    color:red;
+    padding-left:700px;
+}
